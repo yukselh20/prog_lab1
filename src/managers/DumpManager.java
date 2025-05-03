@@ -63,6 +63,9 @@ public class DumpManager {
         } catch (JsonSyntaxException e) {
             console.printError("JSON syntax error in file: " + fileName + " please fix it.");
             System.exit(1);
+        } catch (NumberFormatException e) {
+            console.printError("JSON syntax error in file: " + fileName + " please fix it.");
+            System.exit(1);
         }
         return new LinkedHashMap<>();
     }
