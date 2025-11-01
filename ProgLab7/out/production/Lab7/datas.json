@@ -1,0 +1,16 @@
+{
+  "102": {
+    "id": 2,
+    "name": "Turkish Airlines Flight",
+    "coordinates": {
+      "x": -50.5,
+      "y": 100.0
+    },
+    "creationDate": "2025-06-08",
+    "price": 350,
+    "discount": 25,
+    "comment": "Economy ticket",
+    "type": "USUAL",
+    "event": null
+  }
+}
