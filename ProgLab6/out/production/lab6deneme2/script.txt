@@ -1,0 +1,35 @@
+info
+
+insert 101
+Flight
+100.0
+250.5
+500
+50
+Business class ticket
+VIP
+yes
+Boarding Time
+2025-10-20T10:30:00+03:00[Europe/Istanbul]
+CONCERT
+
+insert 102
+Turkish Airlines Flight
+-50.5
+100.0
+350
+25
+Economy ticket
+USUAL
+no
+
+show
+
+
+info
+
+remove_key 101
+
+print_descending
+
+show

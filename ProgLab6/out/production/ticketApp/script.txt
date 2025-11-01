@@ -1,0 +1,13 @@
+insert 10
+12345asd6
+50
+20
+111
+20
+special guest
+VIP
+yes
+MUSIC
+2023-11-03T12:45:30+03:00[Europe/Istanbul]
+CONCERT
+execute_script script.txt
