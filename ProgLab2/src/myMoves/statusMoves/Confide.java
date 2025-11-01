@@ -18,5 +18,5 @@ public class Confide extends StatusMove {
 	protected String describe(){
 		String info[] = this.getClass().toString().split("\\.");
 		return "Using "+ info[info.length-1];
-	}
+	}k
 }
